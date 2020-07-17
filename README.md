@@ -10,7 +10,7 @@ I am currently a postgrad in Geo-informatics at the Delhi Technological Universi
 - 💬 Ask me about machine learning,deep learning, data science, image processing.
 - 📫 How to reach me: vivanand13@gmail.com
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I love playing tennis.
+- ⚡ Fun fact: raster is faster, but vector is corrector.
 
 </a>
 <a href="https://www.linkedin.com/in/voodooedd/">
