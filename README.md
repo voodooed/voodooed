@@ -4,7 +4,7 @@ I am currently a postgrad in Geo-informatics at the Delhi Technological Universi
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 - 🔭 I’m currently working on Geospatial Data and Image Processing.
-- 🌱 I’m currently learning Data Science.
+- 🌱 I’m currently learning Geospatial Data Science.
 - 👯 I’m looking to collaborate on Image processing, Geo-saptial analysis.
 - 🤔 I’m looking for help with projects involving Geo-spatial Data.
 - 💬 Ask me about machine learning,deep learning, data science, image processing.
