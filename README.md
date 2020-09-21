@@ -1,7 +1,7 @@
 ### Hello! I am Vivek Anand 👋
 I am currently a postgrad in Geo-informatics at the Delhi Technological University(Formely DCE). I love playing with data and the power it brings to you. I work at the intersection of Geo-Spatial Data and ML-DL to find insights that location data and satellite images provide.
 
-<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/KoqELgssTdL7a/giphy.gif" />
 
 - 🔭 I’m currently working on Geospatial Data and Image Processing.
 - 🌱 I’m currently learning Geospatial Data Science.
