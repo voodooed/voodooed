@@ -7,12 +7,12 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-
+<a>
+  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=300px/>
 -  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
 -  :computer: **Skills :** Python, SQL, JS, Machine Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Swimming, Exploring
 -  :books: **Studying at :** Multidisciplinary Centre for Geoinformatics, Delhi Tecnological University(Formerly DCE)
 
-<a>
-  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=65px/>
+
 
