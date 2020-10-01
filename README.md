@@ -1,9 +1,9 @@
 
-### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=25px /> 
+### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> 
 
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
 -  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
