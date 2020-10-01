@@ -1,7 +1,6 @@
 
-### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fbf%2F1f%2Fa1%2Fbf1fa15cc2f586cb2036dee120297c34.jpg&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F620230179913515269%2F&tbnid=VbKIb1IiEtucJM&vet=12ahUKEwivuqPw05LsAhWy8DgGHUkmAvcQMygkegUIARCyAg..i&docid=J7IyixFCsSa0XM&w=1200&h=1200&q=location%20symbol&ved=2ahUKEwivuqPw05LsAhWy8DgGHUkmAvcQMygkegUIARCyAg" height=15px />
-### Hello! I am Vivek Anand 👋
-I am currently a postgrad in Geo-informatics at the Delhi Technological University(Formely DCE). I love playing with data and the power it brings to you. I work at the intersection of Geo-Spatial Data and ML-DL to find insights that location data and satellite images provide.
+### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> <img src="https://drive.google.com/file/d/1glL6HR-jsrcBOQyN7iDtKW7ylEy-emNB/view?usp=sharing" height=15px />
+
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
