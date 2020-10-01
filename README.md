@@ -13,6 +13,3 @@
 -  :computer: **Skills :** Python, SQL, JS, Machine Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Swimming, Exploring
 -  :books: **Studying at :** Multidisciplinary Centre for Geoinformatics, Delhi Tecnological University(Formerly DCE)
-
-
-
