@@ -1,6 +1,7 @@
 
 ### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> 
 [![Linkedin Badge](https://img.shields.io/badge/-vivekanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//) [![Gmail Badge](https://img.shields.io/badge/-vivanand13@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com)
+[![Hackerrank Badge](https://img.shields.io/badge/-vivekanand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//)
 <a href="https://www.hackerrank.com/voodooed">
   <img alt="Vivek's Hackerank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 
