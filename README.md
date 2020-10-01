@@ -1,5 +1,5 @@
 
-### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> <img src="https://github.com/voodooed/voodooed/blob/master/A.jpg" height=15px />
+#### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=40px /> <img src="https://github.com/voodooed/voodooed/blob/master/A.jpg" height=40px />
 
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
