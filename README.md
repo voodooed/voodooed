@@ -10,4 +10,4 @@
 -  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
 -  :computer: **Skills :** Python, SQL, JS, Machine Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Swimming, Exploring
--  :books: **Studying at :** Delhi Tecnological University(Formerly DCE)
+-  :books: **Studying at :** Delhi Tecnological University (Formerly DCE)
