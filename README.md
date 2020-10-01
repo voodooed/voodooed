@@ -1,6 +1,11 @@
 
 ### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=15px /> 
-
+</a>
+<a href="https://www.linkedin.com/in/voodooedd/">
+  <img align="left" alt="Vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+ </a>
+<a href="https://www.hackerrank.com/voodooed">
+  <img align="left" alt="Vivek's Hackerank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
@@ -14,4 +19,4 @@
   <img align="left" alt="Vivek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
  </a>
 <a href="https://www.hackerrank.com/voodooed">
-  <img align="left" alt="Vivek's Hackerank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="right"  src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
