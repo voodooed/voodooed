@@ -14,5 +14,5 @@
 -  :books: **Studying at :** Multidisciplinary Centre for Geoinformatics, Delhi Tecnological University(Formerly DCE)
 
 <a>
-  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=655px/>
+  <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=65px/>
 
