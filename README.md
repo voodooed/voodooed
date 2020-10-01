@@ -1,17 +1,15 @@
 
-# Vivek Anand <img src="https://github.com/voodooed/voodooed/blob/master/A.jpg" height=25px /><img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=25px /> 
+### Vivek Anand <img src="https://github.com/hjnilsson/country-flags/blob/master/png250px/in.png" height=25px /> 
 
 
 <img align="right" alt="GIF" height="300px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### About
 
-- 🔭 I’m currently working on Geospatial Data and Image Processing.
-- 🌱 I’m currently learning Geospatial Data Science.
-- 👯 I’m looking to collaborate on Image processing, Geo-saptial analysis.
-- 🤔 I’m looking for help with projects involving Geo-spatial Data.
-- 💬 Ask me about machine learning,deep learning, data science, image processing.
-- 📫 How to reach me: vivanand13@gmail.com
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: raster is faster, but vector is corrector.
+-  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
+-  :computer: **Skills :** Python, SQL, JS, Machine Learning 
+-  :tennis: **Hobbies :** Reading, Tennis, Swimming, Exploring
+-  :books: **Studying at :** Multidisciplinary Centre for Geoinformatics, Delhi Tecnological University(Formerly DCE)
 
 </a>
 <a href="https://www.linkedin.com/in/voodooedd/">
