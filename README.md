@@ -7,7 +7,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-<a>
   <img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height=300px/>
 -  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
 -  :computer: **Skills :** Python, SQL, JS, Machine Learning 
