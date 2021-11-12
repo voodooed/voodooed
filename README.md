@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  :fire: **Working On :** Location Intelligence | Machine-Learning | Image Processing 
--  :computer: **Skills :** Python, SQL, JS, Machine Learning 
--  :tennis: **Hobbies :** Reading, Tennis, Swimming, Exploring
+-  :fire: **Working On :** Location Intelligence | 3D Point Cloud | Image Processing 
+-  :computer: **Skills :** Python, JS, Machine Learning, Deep Learning 
+-  :tennis: **Hobbies :** Reading, Tennis, Exploring
 -  :books: **Studying at :** Indian Institute of Technology, Kanpur
