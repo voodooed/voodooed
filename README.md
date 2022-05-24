@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  :fire: **Working On :** Location Intelligence | 3D Point Cloud | Image Processing 
+-  :fire: **Working On :** 3D Point Cloud - LiDAR | Satellite Image Processing | Location Intelligence 
 -  :computer: **Skills :** Python, SQL, Machine Learning, Deep Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Exploring
 -  :books: **Studying at :** Indian Institute of Technology, Kanpur
