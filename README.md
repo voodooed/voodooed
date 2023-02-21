@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  :fire: **Working On :** 3D Point Cloud - LiDAR | Simulation (AVs) | Satellite Image Processing
+-  :fire: **Research Area :** Working at the intersection of Deep Learning and Simulation for Autonomous Vehicles
 -  :computer: **Skills :** Python, Machine Learning, Deep Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Exploring
 -  :books: **Studying at :** Indian Institute of Technology, Kanpur
