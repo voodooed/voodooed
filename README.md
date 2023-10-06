@@ -7,7 +7,7 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
--  :fire: **Research Area :** Working at the intersection of Deep Learning and Simulation for Autonomous Vehicles
+-  :fire: **Research Area :** Working at the intersection of Deep Learning, Simulation and Autonomous Vehicles
 -  :computer: **Skills :** Python, Machine Learning, Deep Learning 
 -  :tennis: **Hobbies :** Reading, Tennis, Exploring
 -  :books: **Studying at :** IIT Kanpur
