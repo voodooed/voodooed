@@ -1,12 +1,21 @@
+## Vivek Anand <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height=15px /> 
+[![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//)
+[![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com) 
 
-## Vivek Anand <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height=2px /> 
-[![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//) [![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com) 
-
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width=280px height=280px/>
+<!-- Right-aligned GIF -->
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="280" />
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### About
--  :fire: **Research Area :** Working at the intersection of Deep Learning, Simulation and Autonomous Vehicles
--  :computer: **Skills :** Python, Machine Learning, Deep Learning 
--  :tennis: **Hobbies :** Reading, Tennis, Exploring
--  :books: **Studying at :** IIT Kanpur
+-  :fire: **Research Area :** Working at the intersection of Deep Learning, Simulation and Autonomous Vehicles  
+-  :computer: **Skills :** Python, Machine Learning, Deep Learning  
+-  :tennis: **Hobbies :** Reading, Tennis, Exploring  
+-  :books: **Studying at :** IIT Kanpur  
+
+---
+
+<!-- Centered new GIF -->
+<p align="center">
+  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="400" alt="The Only Winning Move" />
+</p>
