@@ -12,9 +12,9 @@
 
 ---
 
-<!-- Side-by-side GIFs -->
+<!-- Side-by-side GIFs of equal size -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" height="280" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="300" alt="GitHub Octocat Animation" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="280" height="280" alt="The Only Winning Move" />
+  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="300" height="300" alt="The Only Winning Move" />
 </p>
