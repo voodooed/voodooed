@@ -35,6 +35,12 @@
   ],
   "proceedings": [
     {
+      "title": "Realistic LiDAR Data Simulation for Autonomous Systems using Physics-Informed Learning",
+      "authors": "V Anand,S Yadav , M Limba, G Pandey, B Lohani",
+      "journal": "2026 Symposium on International Automotive Technology, Pune, MH",
+      "doi": "https://doi.org/10.4271/2026-26-0138"
+    },
+    {
       "title": "Towards Realistic LiDAR Intensity Simulation in Snowy Weather Using Physics-Informed Learning",
       "authors": "V Anand, B Lohani, R Mishra, G Pandey",
       "journal": "2025 IEEE Intelligent Vehicles Symposium (IV) Cluj, Romania, 2552-2557",
