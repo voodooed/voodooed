@@ -12,7 +12,7 @@
       "title": "Towards Closing the Sim-to-Real Gap: A Physics-Guided Learning Approach for LiDAR Intensity Simulation",
       "description": "Developed a physics-informed neural network simulate realistic LiDAR intensity data for autonomous vehicles.",
       "authors": "Vivek Anand, Bharat Lohani, Gaurav Pandey, Rakesh Mishra",
-      "journal": "IEEE Transactions on Intelligent Transportation Systems",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems [Under Review]",
       "doi": "Under Review"
     },
 
@@ -20,20 +20,26 @@
       "title": "Simulating Realistic LiDAR Intensity in Adverse Weather: A Physics Informed Learning Approach",
       "description": "Simulating LiDAR intensity under adverse weather conditions using physics informed learning.",
       "authors": "Vivek Anand, Bharat Lohani, Gaurav Pandey, Rakesh Mishra",
-      "journal": "IEEE Transactions on Intelligent Vehicles",
-      "doi": "Under Review"
+      "journal": "ISPRS Journal of Photogrammetry and Remote Sensing [Under Review]",
+      "doi": "https://dx.doi.org/10.2139/ssrn.5964394"
     },
 
     {
       "title": "ReaLITy: Realistic Environment-Adaptive LiDAR Intensity Transformation across Sensors and Weather",
       "description": "a unified physics-informed framework for generating sensor-specific LiDAR intensity adaptations and realistic adverse-weather transformations across datasets, sensors, and environments.",
       "authors": "Vivek Anand, Bharat Lohani, Gaurav Pandey, Rakesh Mishra",
-      "journal": "The International Journal of Robotics Research",
+      "journal": "The International Journal of Robotics Research [Under Review]",
       "doi": "Under Review"
     }
 
   ],
   "proceedings": [
+    {
+      "title": "Realistic LiDAR Data Simulation for Autonomous Systems using Physics-Informed Learning",
+      "authors": "V Anand,S Yadav , M Limba, G Pandey, B Lohani",
+      "journal": "2026 Symposium on International Automotive Technology, Pune, MH",
+      "doi": "https://doi.org/10.4271/2026-26-0138"
+    },
     {
       "title": "Towards Realistic LiDAR Intensity Simulation in Snowy Weather Using Physics-Informed Learning",
       "authors": "V Anand, B Lohani, R Mishra, G Pandey",
