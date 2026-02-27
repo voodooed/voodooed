@@ -8,7 +8,7 @@
 -  :fire: **Research Area :** Working at the intersection of Deep Learning, Simulation and Autonomous Vehicles  
 -  :computer: **Skills :** Python, Machine Learning, Deep Learning  
 -  :tennis: **Hobbies :** Reading, Tennis, Exploring  
--  :books: **Studying at :** IIT Kanpur  
+-  :books: **Alma Mater :** IIT Kanpur, DTU, KIIT
 
 ---
 
