@@ -12,15 +12,15 @@
       "title": "Towards Closing the Sim-to-Real Gap: A Physics-Guided Learning Approach for LiDAR Intensity Simulation",
       "description": "Developed a physics-informed neural network simulate realistic LiDAR intensity data for autonomous vehicles.",
       "authors": "Vivek Anand, Bharat Lohani, Gaurav Pandey, Rakesh Mishra",
-      "journal": "IEEE Transactions on Intelligent Transportation Systems [Under Review]",
-      "doi": "Under Review"
+      "journal": "IEEE Transactions on Intelligent Transportation Systems [Accepted - In Press]",
+      "doi": "Accepted - In Press"
     },
 
     {
       "title": "Simulating Realistic LiDAR Intensity in Adverse Weather: A Physics Informed Learning Approach",
       "description": "Simulating LiDAR intensity under adverse weather conditions using physics informed learning.",
       "authors": "Vivek Anand, Bharat Lohani, Gaurav Pandey, Rakesh Mishra",
-      "journal": "ISPRS Journal of Photogrammetry and Remote Sensing [Under Review]",
+      "journal": "ISPRS Journal of Photogrammetry and Remote Sensing [Under Review - Preprint]",
       "doi": "https://dx.doi.org/10.2139/ssrn.5964394"
     },
 
