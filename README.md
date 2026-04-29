@@ -4,13 +4,6 @@
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### About
--  :fire: **Research Area :** Working at the intersection of Deep Learning, Simulation and Autonomous Vehicles  
--  :computer: **Skills :** Python, Machine Learning, Deep Learning  
--  :tennis: **Hobbies :** Reading, Tennis, Exploring  
--  :books: **Alma Mater :** IIT Kanpur, DTU, KIIT
-
----
 
 <!-- Side-by-side GIFs of equal size -->
 <p align="center">
