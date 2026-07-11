@@ -6,7 +6,7 @@
 
 
 ```text
-Building models of the world for machines that must navigate it.
+Building representations of the world for machines that must navigate it.
 ```
 
 <table align="center">
