@@ -11,7 +11,13 @@ Building models of the world for machines that must navigate it.
 ```
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Researcher.;Computer+Vision.;Physics-Informed+AI.;LiDAR+Simulation.;Generative+Models.;Bridging+the+Sim-to-Real+Gap." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Researcher.;Computer+Vision.;Physics-Informed+AI.;LiDAR+Simulation.;Generative+Models.;Bridging+the+Sim-to-Real+Gap." />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="300"/>
 </p>
 
 ---
@@ -20,12 +26,14 @@ Building models of the world for machines that must navigate it.
 
 I work at the intersection of **simulation**, **computer vision**, and **machine learning** for autonomous systems.
 
-Current interests:
+**Research interests**
 
-- realistic sensor simulation
-- generative world models
-- physics-informed learning
-- sim-to-real transfer
+- Intelligent Transportation Systems
+- Autonomous Driving
+- LiDAR Simulation
+- Generative Models
+- Physics-Informed Learning
+- Sim-to-Real Transfer
 
 ---
 
@@ -42,18 +50,22 @@ research = {
 }
 ```
 
-<!-- Side-by-side GIFs -->
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="300"/>
-</p>
-
 ---
 
-> *The simulation is never the world itself,  
-> but sometimes it is close enough to teach a machine how to understand it.*
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=voodooed&theme=tokyo-night&hide_border=true" />
 </p>
+
+---
+
+<div align="center">
+
+*The simulation is never the world itself,  
+but sometimes it is close enough to teach a machine how to understand it.*
+
+</div>
