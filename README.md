@@ -2,7 +2,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//)
 [![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com) 
 
-````markdown
+
 <div align="center">
 
 ```text
@@ -70,7 +70,6 @@ I just try to make machines understand it."
 ```
 
 </div>
-````
 ![](https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true)
