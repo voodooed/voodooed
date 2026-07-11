@@ -11,19 +11,7 @@
 > Simulating reality. Closing the Sim-to-Real gap.
 ````
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PhD+Researcher+%40+IIT+Kanpur;Physics-Informed+AI+for+Autonomous+Driving;LiDAR+%7C+Generative+Models+%7C+Simulation;Turning+Photons+into+Perception" />
-
-```python
-class VivekAnand:
-    affiliation = "IIT Kanpur"
-    research = [
-        "Physics-Informed Deep Learning",
-        "LiDAR Simulation",
-        "Sim-to-Real Transfer",
-        "Generative AI for Autonomous Systems"
-    ]
-    mission = "Teach autonomous systems to perceive realistic worlds."
-```
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Researcher;Computer+Vision;Physics-Informed+AI+for+ITS;LiDAR+%7C+Generative+Models+%7C+Simulation;Turning+Photons+into+Perception" />
 
 ### // Current Quest
 
@@ -33,7 +21,7 @@ class VivekAnand:
 
 ### // Research Stack
 
-`PyTorch` • `Deep Learning` • `Computer Vision` • `LiDAR` • `ROS` • `CUDA` • `Simulation` • `Generative Models`
+`PyTorch` • `Deep Learning` • `Computer Vision` • `LiDAR` • `Simulation` • `Generative Models`
 
 ### // Connect
 
@@ -47,9 +35,6 @@ class VivekAnand:
 "The map is not the territory.
 The simulation is not reality.
 My research lives in the space between them."
-```
-
-```
 ```
 <!-- Side-by-side GIFs of equal size -->
 <p align="center">
