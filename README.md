@@ -55,14 +55,9 @@ research = {
 > but sometimes it is close enough to teach a machine how to understand it.*
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=voodooed&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/voodooed/voodooed/output/github-contribution-grid-snake-dark.svg" />
-</p>
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=voodooed&theme=tokyo-night&hide_border=true" />
-</p
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=voodooed&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=voodooed&theme=tokyo-night&hide_border=true" />
 </p>
