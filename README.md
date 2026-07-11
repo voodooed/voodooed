@@ -32,6 +32,7 @@ Current interests:
 ```python
 research = {
     "focus": [
+        "Intelligent Transportation Systems",
         "Autonomous Driving",
         "Computer Vision",
         "LiDAR",
@@ -54,5 +55,9 @@ research = {
 > but sometimes it is close enough to teach a machine how to understand it.*
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+![](https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true)
