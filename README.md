@@ -1,45 +1,58 @@
-## Vivek Anand <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height=15px /> 
-[![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//)
-[![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com) 
+## Vivek Anand <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="15px" />
 
+[![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/voodooedd/)
+[![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:viveka21@iitk.ac.in)
+[![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox-browser&logoColor=white)](https://home.iitk.ac.in/~viveka21/)
 
-````markdown
-# VIVEK ANAND // voodooed
+# `VIVEK ANAND // @voodooed`
 
-```txt
-> Building machines that understand the world through light.
-> Simulating reality. Closing the Sim-to-Real gap.
-````
+```text
+Building models of the world for machines that must navigate it.
+```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Researcher;Computer+Vision;Physics-Informed+AI+for+ITS;LiDAR+%7C+Generative+Models+%7C+Simulation;Turning+Photons+into+Perception" />
-
-### // Current Quest
-
-⚡ Building **ReaLiTy** & **LADS**
-⚡ Exploring geometry-aware generative models
-⚡ Creating realistic sensor simulation for autonomous vehicles
-
-### // Research Stack
-
-`PyTorch` • `Deep Learning` • `Computer Vision` • `LiDAR` • `Simulation` • `Generative Models`
-
-### // Connect
-
-🌐 https://home.iitk.ac.in/~viveka21/
-💼 https://www.linkedin.com/in/voodooedd/
-📧 [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=800&lines=Researcher.;Computer+Vision.;Physics-Informed+AI.;LiDAR+Simulation.;Generative+Models.;Bridging+the+Sim-to-Real+Gap." />
+</p>
 
 ---
 
-```txt
-"The map is not the territory.
-The simulation is not reality.
-My research lives in the space between them."
+### About
+
+I work at the intersection of **simulation**, **computer vision**, and **machine learning** for autonomous systems.
+
+Current interests:
+
+- realistic sensor simulation
+- generative world models
+- physics-informed learning
+- sim-to-real transfer
+
+---
+
+```python
+research = {
+    "focus": [
+        "Autonomous Driving",
+        "Computer Vision",
+        "LiDAR",
+        "Generative Models"
+    ],
+    "goal": "Learning representations that transfer from simulation to reality."
+}
 ```
-<!-- Side-by-side GIFs of equal size -->
+
+<!-- Side-by-side GIFs -->
 <p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" height="300" alt="GitHub Octocat Animation" />
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="300" height="300" alt="The Only Winning Move" />
+  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" width="300"/>
 </p>
 
+---
+
+> *The simulation is never the world itself,  
+> but sometimes it is close enough to teach a machine how to understand it.*
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+</p>
