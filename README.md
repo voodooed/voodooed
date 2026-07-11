@@ -53,7 +53,7 @@ research = {
 ---
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true" />
 </p>
 
