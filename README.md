@@ -1,10 +1,9 @@
-## Vivek Anand <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="15px" />
+## `VIVEK ANAND // @voodooed` <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="15px" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/voodooedd/)
 [![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:viveka21@iitk.ac.in)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox-browser&logoColor=white)](https://home.iitk.ac.in/~viveka21/)
 
-# `VIVEK ANAND // @voodooed`
 
 ```text
 Building models of the world for machines that must navigate it.
