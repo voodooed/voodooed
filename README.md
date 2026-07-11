@@ -55,10 +55,9 @@ research = {
 > but sometimes it is close enough to teach a machine how to understand it.*
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true" />
+  ![](https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true)
+
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true)
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true)
