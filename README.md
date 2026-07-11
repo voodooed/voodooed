@@ -9,17 +9,11 @@
 Building models of the world for machines that must navigate it.
 ```
 
-<table align="center">
-<tr>
-<td align="center">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="280">
-</td>
-<td width="40"></td>
-<td align="center">
-<img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" height="280">
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="280"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" height="280"/>
+</p>
 
 ---
 
