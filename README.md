@@ -2,55 +2,78 @@
 [![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/voodooedd/)](https://www.linkedin.com/in/voodooedd//)
 [![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivanand13@gmail.com)](mailto:vivanand13@gmail.com) 
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ````markdown
-# VIVEK ANAND // voodooed
+<div align="center">
 
-```txt
-> Building machines that understand the world through light.
-> Simulating reality. Closing the Sim-to-Real gap.
-````
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=PhD+Researcher+%40+IIT+Kanpur;Physics-Informed+AI+for+Autonomous+Driving;LiDAR+%7C+Generative+Models+%7C+Simulation;Turning+Photons+into+Perception" />
-
-```python
-class VivekAnand:
-    affiliation = "IIT Kanpur"
-    research = [
-        "Physics-Informed Deep Learning",
-        "LiDAR Simulation",
-        "Sim-to-Real Transfer",
-        "Generative AI for Autonomous Systems"
-    ]
-    mission = "Teach autonomous systems to perceive realistic worlds."
+```text
+┌──────────────────────────────────────────────────────┐
+│                SYSTEM : VIVEK ANAND                 │
+│                USER   : @voodooed                   │
+│                STATUS : ONLINE                      │
+└──────────────────────────────────────────────────────┘
 ```
 
-### // Current Quest
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Researcher+%40+IIT+Kanpur;Building+Realistic+World+Models;Simulation+%7C+LiDAR+%7C+Generative+AI;Bridging+the+Sim-to-Real+Gap" />
 
-⚡ Building **ReaLiTy** & **LADS**
-⚡ Exploring geometry-aware generative models
-⚡ Creating realistic sensor simulation for autonomous vehicles
-
-### // Research Stack
-
-`PyTorch` • `Deep Learning` • `Computer Vision` • `LiDAR` • `ROS` • `CUDA` • `Simulation` • `Generative Models`
-
-### // Connect
-
-🌐 https://home.iitk.ac.in/~viveka21/
-💼 https://www.linkedin.com/in/voodooedd/
-📧 [viveka21@iitk.ac.in](mailto:viveka21@iitk.ac.in)
+</div>
 
 ---
 
-```txt
-"The map is not the territory.
-The simulation is not reality.
-My research lives in the space between them."
+```python
+class Researcher:
+    name = "Vivek Anand"
+    alias = "voodooed"
+
+    interests = [
+        "Autonomous Driving",
+        "Physics-Informed AI",
+        "LiDAR Simulation",
+        "Generative Models",
+        "Computer Vision"
+    ]
+
+    mission = """
+    Build machines that can understand,
+    simulate, and navigate the real world.
+    """
 ```
 
+### ⟡ Current Coordinates
+
+- 🔭 Researching **AI-driven simulation and perception**
+- 🌌 Exploring **world models and generative intelligence**
+- ⚙️ Building systems at the intersection of **physics and deep learning**
+
+### ⟡ Stack
+
+`Python` · `PyTorch` · `CUDA` · `ROS` · `Computer Vision` · `Deep Learning` · `LiDAR` · `Simulation`
+
+---
+
+<div align="center">
+
+### Transmission Channels
+
+🌐 [Website](https://home.iitk.ac.in/~viveka21/) •
+💼 [LinkedIn](https://www.linkedin.com/in/voodooedd/) •
+📧 viveka21@iitk.ac.in
+
+</div>
+
+---
+
+<div align="center">
+
+```text
+"Reality is the ultimate simulator.
+I just try to make machines understand it."
 ```
-```
+
+</div>
+````
+![](https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=voodooed&theme=tokyonight&hide_border=true)
 
 
 <!-- Side-by-side GIFs of equal size -->
