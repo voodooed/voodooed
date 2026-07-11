@@ -55,9 +55,5 @@ research = {
 > but sometimes it is close enough to teach a machine how to understand it.*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=voodooed&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=voodooed&theme=tokyo-night&hide_border=true" />
 </p>
