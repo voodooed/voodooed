@@ -1,7 +1,7 @@
 ## `VIVEK ANAND // @voodooed` <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/svg/in.svg" height="15px" />
 
 [![Linkedin Badge](https://img.shields.io/badge/-VivekAnand-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/voodooedd/)
-[![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:viveka21@iitk.ac.in)
+[![Gmail Badge](https://img.shields.io/badge/-viveka21@iitk.ac.in-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:vivanand13@gmail.com)
 [![Website](https://img.shields.io/badge/-Website-black?style=flat-square&logo=firefox-browser&logoColor=white)]((https://voodooed.github.io/))
 
 
@@ -16,7 +16,7 @@ Building representations of the world for machines that must navigate it.
 </td>
 <td width="40"></td>
 <td align="center">
-<img src="https://github.com/voodooed/voodooed/blob/master/the-only-winning-move.gif" height="280">
+<img src="(https://github.com/voodooed/voodooed.github.io/blob/master/the-only-winning-move.gif" height="280">
 </td>
 </tr>
 </table>
