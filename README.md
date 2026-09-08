@@ -16,7 +16,7 @@ Building representations of the world for machines that must navigate it.
 </td>
 <td width="40"></td>
 <td align="center">
-<img src="(https://github.com/voodooed/voodooed.github.io/blob/master/the-only-winning-move.gif" height="280">
+<img src="https://github.com/voodooed/voodooed.github.io/blob/master/the-only-winning-move.gif" height="280">
 </td>
 </tr>
 </table>
