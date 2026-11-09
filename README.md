@@ -37,21 +37,4 @@ I work at the intersection of **simulation**, **computer vision**, and **machine
 - Sim-to-Real Transfer
 
 ---
-
-```python
-research = {
-    "focus": [
-        "Intelligent Transportation Systems",
-        "Autonomous Driving",
-        "Computer Vision",
-        "LiDAR",
-        "Generative Models"
-    ],
-    "goal": "Learning representations that transfer from simulation to reality."
-}
-```
-
-*The simulation is never the world itself,  
-but sometimes it is close enough to teach a machine how to understand it.*
-
 </div>
